@@ -1,0 +1,1 @@
+este projecto es de la actividad 3.3, gracias a la guia logre crear estas carpetas y archivos desde la consola de visual studio, apropiandome mas de esos comandos funcionales.
