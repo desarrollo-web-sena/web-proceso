@@ -1,0 +1,12 @@
+"scripts";
+{
+  ("start");
+  ("node src/index.js");
+}
+
+("scripts");
+{
+  ("start");
+  "node src/index.js", "dev";
+  ("nodemon src/index.js");
+}
